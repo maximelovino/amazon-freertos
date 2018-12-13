@@ -1,3 +1,7 @@
 # Ignore uncrustify backups
 *.unc*
 doc/html/*
+
+demos/common/include/aws_clientcredential_keys\.h
+
+demos/common/include/aws_clientcredential\.h
